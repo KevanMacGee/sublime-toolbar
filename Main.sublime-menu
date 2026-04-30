@@ -8,6 +8,10 @@
   },
 
   {
+    "command": "prompt_open_folder",
+    "caption": "📁 Open Folder",
+  },
+  {
     "command": "new_file",
     "caption": "➕ New",
   },
