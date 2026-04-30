@@ -1,0 +1,22 @@
+[
+    {
+        "id": "help"
+    },
+    {
+        "id": "folders",
+        "caption": "-"
+    },
+
+    {
+        "command": "new_file",
+        "caption": "＋ New"
+    },
+    {
+        "command": "prompt_open_file",
+        "caption": "□ Open"
+    },
+    {
+        "command": "save_as",
+        "caption": "▣ Save As"
+    }
+]
