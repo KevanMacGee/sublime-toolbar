@@ -16,7 +16,22 @@
     "caption": "📂 Open",
   },
   {
-    "command": "prompt_save_as",
-    "caption": "💾 Save As",
+    "command": "save",
+    "caption": "💾 Save",
+  },
+  {
+    "caption": "📦 Packages",
+    "command": "show_overlay",
+    "args": {
+      "overlay": "command_palette",
+      "text": "Package Control: Install Package",
+    },
+  },
+  {
+    "command": "open_file",
+    "caption": "⚙️ Settings",
+    "args": {
+      "file": "${packages}/User/Preferences.sublime-settings",
+    },
   },
 ]
