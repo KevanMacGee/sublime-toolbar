@@ -20,6 +20,13 @@
     "caption": "💾 Save",
   },
   {
+    "caption": ">_ Command Palette",
+    "command": "show_overlay",
+    "args": {
+      "overlay": "command_palette",
+    },
+  },
+  {
     "caption": "📦 Packages",
     "command": "show_overlay",
     "args": {
